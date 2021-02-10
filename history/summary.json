@@ -22,19 +22,19 @@
     "url": "https://analytics.sego.app",
     "icon": "https://favicons.githubusercontent.com/analytics.sego.app",
     "slug": "analytics",
-    "status": "down",
-    "uptime": "18.13%",
-    "uptimeDay": "18.13%",
-    "uptimeWeek": "18.13%",
-    "uptimeMonth": "18.13%",
-    "uptimeYear": "18.13%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 791,
+    "timeDay": 791,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2021-02-10": 0
+      "2021-02-10": 31
     }
   }
 ]
