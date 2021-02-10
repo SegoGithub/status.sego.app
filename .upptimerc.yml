@@ -1,12 +1,28 @@
-owner: SegoGithub # GitHub username
-repo: status.sego.app # GitHub repository name
-sites: # List of endpoints to track
+# Change these first
+owner: upptime # Your GitHub username
+repo: upptime # Your GitHub repository name
+
+# Add your sites here
+sites:
   - name: Main Website
     url: https://sego.app
   - name: Analytics
     url: https://analytics.sego.app
-assignees: # Users to assign downtime issues (optional)
-  - SegoGithub
-status-website: # Status website (optional)
-  cname: status.sego.app # Custom domain CNAME
-  name: Upptime # Status website title
+
+status-website:
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.sego.app
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/SegoGithub/status.sego.app/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
