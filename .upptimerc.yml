@@ -6,8 +6,6 @@ repo: status.sego.app # Your GitHub repository name
 sites:
   - name: Main Website
     url: https://sego.app
-  - name: Analytics
-    url: https://analytics.sego.app
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
