@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/sego.app",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 995,
-    "timeDay": 309,
-    "timeWeek": 2568,
-    "timeMonth": 1083,
-    "timeYear": 995,
+    "uptimeYear": "99.97%",
+    "time": 978,
+    "timeDay": 274,
+    "timeWeek": 2566,
+    "timeMonth": 1076,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2021-02-19": 16
     }
